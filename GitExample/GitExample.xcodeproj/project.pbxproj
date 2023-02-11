@@ -14,6 +14,7 @@
 		4B731A28299779F900E38468 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 4B731A27299779F900E38468 /* Assets.xcassets */; };
 		4B731A2B299779F900E38468 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 4B731A29299779F900E38468 /* LaunchScreen.storyboard */; };
 		4B731A3329977C7E00E38468 /* GitTest.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4B731A3229977C7E00E38468 /* GitTest.swift */; };
+		4B731A3529977E5000E38468 /* GalleryViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4B731A3429977E5000E38468 /* GalleryViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -26,6 +27,7 @@
 		4B731A2A299779F900E38468 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		4B731A2C299779F900E38468 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		4B731A3229977C7E00E38468 /* GitTest.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GitTest.swift; sourceTree = "<group>"; };
+		4B731A3429977E5000E38468 /* GalleryViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GalleryViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -62,6 +64,7 @@
 				4B731A20299779F800E38468 /* SceneDelegate.swift */,
 				4B731A22299779F800E38468 /* ViewController.swift */,
 				4B731A3229977C7E00E38468 /* GitTest.swift */,
+				4B731A3429977E5000E38468 /* GalleryViewController.swift */,
 				4B731A24299779F800E38468 /* Main.storyboard */,
 				4B731A27299779F900E38468 /* Assets.xcassets */,
 				4B731A29299779F900E38468 /* LaunchScreen.storyboard */,
@@ -143,6 +146,7 @@
 			files = (
 				4B731A3329977C7E00E38468 /* GitTest.swift in Sources */,
 				4B731A23299779F800E38468 /* ViewController.swift in Sources */,
+				4B731A3529977E5000E38468 /* GalleryViewController.swift in Sources */,
 				4B731A1F299779F800E38468 /* AppDelegate.swift in Sources */,
 				4B731A21299779F800E38468 /* SceneDelegate.swift in Sources */,
 			);
