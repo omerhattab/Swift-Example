@@ -12,3 +12,8 @@ import Foundation
  
  İşlemler burada yapılacak
  */
+
+
+class GalleryViewController{
+    var gitKraken: String = "Deneme Test"
+}
